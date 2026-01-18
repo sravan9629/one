@@ -602,7 +602,7 @@
         <!-- Deals -->
         <section id="deals" class="section container" aria-labelledby="deals-title">
             <div class="title" id="deals-title">
-                <h2>Flash Sale</h2>
+                <h2>Flash Flash Ola</h2>
                 <p class="muted">Limited-time offers — don't miss out!</p>
             </div>
 
